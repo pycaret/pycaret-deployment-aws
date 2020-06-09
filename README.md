@@ -1,2 +1,1 @@
-# pycaret-deployment-aws
-Deploy Machine Learning Pipeline on AWS Fargate
+# Deployment on Microsoft AWS EC2 and Fargate
